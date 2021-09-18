@@ -1,0 +1,170 @@
+{
+	"web": {
+		"front": {
+			"languages": [
+				{
+					"name": "HTML",
+					"img": "/images/svgs/html.svg"
+				},
+				{
+					"name": "CSS",
+					"img": "/images/svgs/css.svg"
+				},
+				{
+					"name": "Javascript",
+					"img": "/images/svgs/javascript.svg"
+				},
+				{
+					"name": "Typescript",
+					"img": "/images/svgs/typescript.svg"
+				},
+				{
+					"name": "NodeJS",
+					"img": "/images/svgs/nodejs.svg"
+				}
+			],
+			"frameworks": [
+				{
+					"name": "ReactJS",
+					"img": "/images/svgs/react.svg"
+				},
+				{
+					"name": "Material-ui",
+					"img": "/images/svgs/materialui.svg"
+				},
+				{
+					"name": "VueJS",
+					"img": "/images/svgs/vue.svg"
+				},
+				{
+					"name": "Vuetify",
+					"img": "/images/svgs/vuetify.svg"
+				},
+				{
+					"name": "Storybook",
+					"img": "/images/svgs/storybook.svg"
+				}
+			]
+		},
+		"back": {
+			"languages": [
+				{
+					"name": "PHP",
+					"img": "/images/svgs/php.svg"
+				},
+				{
+					"name": "MySQL",
+					"img": "/images/svgs/mysql.svg"
+				},
+				{
+					"name": "Socket.io",
+					"img": "/images/svgs/socketio.svg"
+				}
+			],
+			"frameworks": [
+				{
+					"name": "Laravel",
+					"img": "/images/svgs/laravel.svg"
+				}
+			]
+		}
+	},
+	"env": [
+		{
+			"name": "macOS",
+			"img": "/images/svgs/macos.svg"
+		},
+		{
+			"name": "Windows",
+			"img": "/images/svgs/windows.svg"
+		},
+		{
+			"name": "Linux",
+			"img": "/images/svgs/linux.svg"
+		},
+		{
+			"name": "Composer",
+			"img": "/images/svgs/composer.svg"
+		},
+		{
+			"name": "NPM",
+			"img": "/images/svgs/npm.svg"
+		},
+		{
+			"name": "Yarn",
+			"img": "/images/svgs/yarn.svg"
+		},
+		{
+			"name": "Bash",
+			"img": "/images/svgs/bash.svg"
+		},
+		{
+			"name": "VSCode",
+			"img": "/images/svgs/vscode.svg"
+		},
+		{
+			"name": "Git",
+			"img": "/images/svgs/git.svg"
+		},
+		{
+			"name": "Jetbrains",
+			"img": "/images/svgs/jetbrains.svg"
+		},
+		{
+			"name": "Intellij Idea",
+			"img": "/images/svgs/intellij-idea.svg"
+		},
+		{
+			"name": "Mozilla Firefox",
+			"img": "/images/svgs/firefox.svg"
+		},
+		{
+			"name": "Google",
+			"img": "/images/svgs/google.svg"
+		}
+	],
+	"tools": [
+		{
+			"name": "Postman",
+			"img": "/images/svgs/postman.svg"
+		},
+		{
+			"name": "Github",
+			"img": "/images/svgs/github.svg"
+		},
+		{
+			"name": "Gitlab",
+			"img": "/images/svgs/gitlab.svg"
+		},
+		{
+			"name": "Postman",
+			"img": "/images/svgs/postman.svg"
+		},
+		{
+			"name": "Figma",
+			"img": "/images/svgs/figma.svg"
+		},
+		{
+			"name": "Adobe xd",
+			"img": "/images/svgs/adobe-xd.svg"
+		},
+		{
+			"name": "Docker",
+			"img": "/images/svgs/docker.svg"
+		}
+	],
+	"communication": [
+		{
+			"name": "Discord",
+			"img": "/images/svgs/discord.svg"
+		},
+		{
+			"name": "Teams",
+			"img": "/images/svgs/teams.svg"
+		},
+		{
+			"name": "Slack",
+			"img": "/images/svgs/slack.svg"
+		}
+	]
+}
